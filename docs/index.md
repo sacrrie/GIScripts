@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to GIScripts! The hub for all your batch processing needs!
+
+This is our project page working as a standalone discussion&instruction website alongside the repo wiki.
+Below is the place holder Markdown template for editing hints.
 
 You can use the [editor on GitHub](https://github.com/sacrrie/GIScripts/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
